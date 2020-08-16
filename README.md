@@ -11,3 +11,5 @@ Use the SiamRPN implemented in rpn.py by replacing the file in ./lib/model/rpn i
 There are other repositories you might have to look at to include the proposal scoring and selection mechanisms as given in the paper [which pertains to a visual tracking task].
 
 SiamRPN paper: http://www.zhengzhu.net/upload/P6938bc861e8d4583bf47d47d64ed9598.pdf
+
+B. Li, J. Yan, W. Wu, Z. Zhu and X. Hu, "High Performance Visual Tracking with Siamese Region Proposal Network," 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition, Salt Lake City, UT, 2018, pp. 8971-8980, doi: 10.1109/CVPR.2018.00935.
