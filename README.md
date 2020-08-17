@@ -8,7 +8,7 @@ SiamRPN computes correlation between query and image feature maps (using conv) t
 
 Use the SiamRPN implemented in rpn.py by replacing the file in ./lib/model/rpn in the repo you build with the link given above.
 
-There are other repositories you might have to look at to include the proposal scoring and selection mechanisms as given in the paper [which pertains to a visual tracking task].
+There are other repositories you might have to look at to include the proposal scoring and selection mechanisms as given in the paper [which pertains to a visual tracking task]. Here's a good one: https://github.com/arbitularov/SiamRPN-PyTorch
 
 SiamRPN paper: http://www.zhengzhu.net/upload/P6938bc861e8d4583bf47d47d64ed9598.pdf
 
